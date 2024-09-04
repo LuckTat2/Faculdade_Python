@@ -10,8 +10,10 @@ for i in range(5):
     else:
         prazo = prazo + preco
 
-porcentagemPrazo = prazo * 0,1
+porcentagemPrazo = prazo * 0.1
 
 totalPrazo = prazo + porcentagemPrazo
 
-totalcompras = totalVista + totalPrazo
+totalCompras = totalVista + totalPrazo
+
+print("O total das vendas à vista é: R${:.2f}, das vendas à prazo é: R${:.2f} e a soma total é: R${:.2f}".format(totalVista, totalPrazo, totalCompras))
