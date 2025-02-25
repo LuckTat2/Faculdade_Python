@@ -9,9 +9,9 @@ class Carro:
     #Métodos
 
     def buzinar(self):
-        print("O carro",self.modelo," buzinou!")
+        print("O carro ",self.modelo," buzinou!")
         
-    def acelerar(self, incremento: int):
+    def acelerar(self, incremento):
         self.velocidade += incremento
         return self.velocidade
 
