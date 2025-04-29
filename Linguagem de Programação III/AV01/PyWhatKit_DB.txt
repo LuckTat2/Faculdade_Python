@@ -1,0 +1,210 @@
+Date: 18/4/2025
+Time: 12:24
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20 00:00:00. Valor: R$ 150.0.
+--------------------
+Date: 18/4/2025
+Time: 12:27
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20 00:00:00. Valor: R$ 150.0.
+--------------------
+Date: 18/4/2025
+Time: 12:41
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20 00:00:00. Valor: R$ 150.
+--------------------
+Date: 18/4/2025
+Time: 12:44
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20 00:00:00. Valor: R$ 150.
+--------------------
+Date: 18/4/2025
+Time: 16:25
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 150.
+--------------------
+Date: 18/4/2025
+Time: 16:39
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 150.
+--------------------
+Date: 18/4/2025
+Time: 16:40
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 250.
+--------------------
+Date: 18/4/2025
+Time: 16:41
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 350.
+--------------------
+Date: 18/4/2025
+Time: 16:54
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 150.
+--------------------
+Date: 18/4/2025
+Time: 16:55
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 250.
+--------------------
+Date: 18/4/2025
+Time: 16:56
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 350.
+--------------------
+Date: 18/4/2025
+Time: 17:42
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 150.
+--------------------
+Date: 18/4/2025
+Time: 17:43
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 250.
+--------------------
+Date: 18/4/2025
+Time: 17:46
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 150.
+--------------------
+Date: 18/4/2025
+Time: 17:47
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 250.
+--------------------
+Date: 18/4/2025
+Time: 17:48
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 350.
+--------------------
+Date: 18/4/2025
+Time: 18:52
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 150.
+--------------------
+Date: 18/4/2025
+Time: 18:54
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 150.
+--------------------
+Date: 18/4/2025
+Time: 18:55
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 250.
+--------------------
+Date: 18/4/2025
+Time: 18:56
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 350.
+--------------------
+Date: 22/4/2025
+Time: 9:14
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 150.
+--------------------
+Date: 22/4/2025
+Time: 9:15
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 250.
+--------------------
+Date: 22/4/2025
+Time: 9:16
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 350.
+--------------------
+Date: 22/4/2025
+Time: 9:44
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 150.
+--------------------
+Date: 22/4/2025
+Time: 9:46
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 150.
+--------------------
+Date: 22/4/2025
+Time: 9:47
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 250.
+--------------------
+Date: 22/4/2025
+Time: 9:48
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 350.
+--------------------
+Date: 24/4/2025
+Time: 12:44
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 150.
+--------------------
+Date: 24/4/2025
+Time: 12:47
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 150.
+--------------------
+Date: 24/4/2025
+Time: 12:48
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 250.
+--------------------
+Date: 24/4/2025
+Time: 12:49
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 350.
+--------------------
+Date: 24/4/2025
+Time: 13:0
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 150.
+--------------------
+Date: 24/4/2025
+Time: 13:1
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 250.
+--------------------
+Date: 24/4/2025
+Time: 13:2
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 350.
+--------------------
+Date: 24/4/2025
+Time: 13:38
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 150.
+--------------------
+Date: 24/4/2025
+Time: 13:43
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 150.
+--------------------
+Date: 24/4/2025
+Time: 13:44
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 250.
+--------------------
+Date: 24/4/2025
+Time: 13:45
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 350.
+--------------------
+Date: 25/4/2025
+Time: 9:31
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 150.
+--------------------
+Date: 25/4/2025
+Time: 9:32
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 150.
+--------------------
+Date: 25/4/2025
+Time: 9:33
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 250.
+--------------------
+Date: 25/4/2025
+Time: 9:34
+Phone Number: +5548996411499
+Message: Olá Lucas Silva, sua fatura vence em 2025-04-20. Valor: R$ 350.
+--------------------

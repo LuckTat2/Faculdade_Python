@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Cadastro de Clientes e Faturas</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <h1>Cadastro de Cliente e Fatura</h1>
+    <form action="cadastro.php" method="post">
+        <label>Nome: <input type="text" name="nome" required></label><br>
+        <label>Email: <input type="email" name="email" required></label><br>
+        <label>Telefone: <input type="text" name="telefone" required></label><br>
+        <label>Valor da Fatura: <input type="number" step="0.01" name="valor" required></label><br>
+        <label>Vencimento: <input type="date" name="vencimento" required></label><br>
+        <label>Status da Fatura:
+            <select name="status" required>
+                <option value="pendente">Pendente</option>
+                <option value="pago">Pago</option>
+            </select>
+        </label><br>
+        <button type="submit">Cadastrar</button>
+    </form>
+</body>
+</html>

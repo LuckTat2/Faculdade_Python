@@ -1,0 +1,394 @@
+[2025-04-18 12:34:54] Processando Lucas Silva (status=Pendente)
+[2025-04-18 12:34:54] Status atualizado para Enviado.
+[2025-04-18 12:34:54] Processando Lucas Silva (status=Pago)
+[2025-04-18 12:34:54] Planilha atualizada com sucesso.
+[2025-04-18 12:35:53] Processando Lucas Silva (status=Enviado)
+[2025-04-18 12:35:53] Status atualizado para Enviado.
+[2025-04-18 12:35:53] Processando Lucas Silva (status=Pago)
+[2025-04-18 12:35:53] Planilha atualizada com sucesso.
+[2025-04-18 12:37:37] Processando Lucas Silva | Status: Enviado
+[2025-04-18 12:40:54] Processando Lucas Silva | Status: enviado
+[2025-04-18 12:40:54] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 12:40:54] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 12:40:54] Erro ao enviar WhatsApp para 48996411499: Call Time must be Greater than Wait Time as WhatsApp Web takes some Time to Load!
+[2025-04-18 12:40:58] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 12:40:58] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 12:40:58] Processando Lucas Silva | Status: pago
+[2025-04-18 12:40:58] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-18 12:40:58] Planilha atualizada com sucesso.
+[2025-04-18 12:41:38] Processando Lucas Silva | Status: pendente
+[2025-04-18 12:41:38] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 12:41:38] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 12:42:16] WhatsApp enviado para 48996411499
+[2025-04-18 12:42:21] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 12:42:21] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 12:42:21] Processando Lucas Silva | Status: pago
+[2025-04-18 12:42:21] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-18 12:42:21] Planilha atualizada com sucesso.
+[2025-04-18 12:43:28] Processando Lucas Silva | Status: pendente
+[2025-04-18 12:43:28] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 12:43:28] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 12:43:53] Processando Lucas Silva | Status: pendente
+[2025-04-18 12:43:53] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 12:43:53] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 12:43:53] Erro ao enviar WhatsApp para 48996411499: Call Time must be Greater than Wait Time as WhatsApp Web takes some Time to Load!
+[2025-04-18 12:43:58] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 12:43:58] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 12:43:58] Processando Lucas Silva | Status: pago
+[2025-04-18 12:43:58] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-18 12:43:58] Planilha atualizada com sucesso.
+[2025-04-18 12:44:42] Processando Lucas Silva | Status: pendente
+[2025-04-18 12:44:42] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 12:44:42] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 12:45:15] WhatsApp enviado para 48996411499
+[2025-04-18 12:45:20] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 12:45:20] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 12:45:20] Processando Lucas Silva | Status: pago
+[2025-04-18 12:45:20] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-18 12:45:20] Planilha atualizada com sucesso.
+[2025-04-18 16:24:52] Processando Lucas Silva | Status: pendente
+[2025-04-18 16:24:52] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 16:24:52] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 16:24:52] Erro ao enviar WhatsApp para 48996411499: Call Time must be Greater than Wait Time as WhatsApp Web takes some Time to Load!
+[2025-04-18 16:24:56] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 16:24:56] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 16:24:56] Processando Lucas Silva | Status: pago
+[2025-04-18 16:24:56] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-18 16:24:56] ERRO: não foi possível salvar a planilha — verifique se ela está aberta.
+[2025-04-18 16:25:21] Processando Lucas Silva | Status: pendente
+[2025-04-18 16:25:21] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 16:25:21] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 16:26:16] WhatsApp enviado para 48996411499
+[2025-04-18 16:26:20] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 16:26:20] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 16:26:20] Processando Lucas Silva | Status: pago
+[2025-04-18 16:26:20] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-18 16:26:20] Planilha atualizada com sucesso.
+[2025-04-18 16:38:51] Processando Lucas Silva | Status: pendente
+[2025-04-18 16:38:51] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 16:38:51] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 16:38:51] Erro ao enviar WhatsApp para 48996411499: Call Time must be Greater than Wait Time as WhatsApp Web takes some Time to Load!
+[2025-04-18 16:38:55] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 16:38:55] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 16:38:55] Processando Lucas Silva | Status: pago
+[2025-04-18 16:38:55] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-18 16:38:55] Processando Lucas Silva | Status: pendente
+[2025-04-18 16:38:55] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 16:38:55] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 16:38:55] Erro ao enviar WhatsApp para 48996411499: Call Time must be Greater than Wait Time as WhatsApp Web takes some Time to Load!
+[2025-04-18 16:39:00] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 16:39:00] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 16:39:00] Processando Lucas Silva | Status: pendente
+[2025-04-18 16:39:00] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 16:39:00] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 16:39:14] Processando Lucas Silva | Status: pendente
+[2025-04-18 16:39:14] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 16:39:14] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 16:39:30] Processando Lucas Silva | Status: pendente
+[2025-04-18 16:39:30] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 16:39:30] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 16:40:16] WhatsApp enviado para 48996411499
+[2025-04-18 16:40:21] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 16:40:21] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 16:40:21] Processando Lucas Silva | Status: pago
+[2025-04-18 16:40:21] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-18 16:40:21] Processando Lucas Silva | Status: pendente
+[2025-04-18 16:40:21] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 16:40:21] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 16:41:16] WhatsApp enviado para 48996411499
+[2025-04-18 16:41:20] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 16:41:20] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 16:41:20] Processando Lucas Silva | Status: pendente
+[2025-04-18 16:41:20] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 16:41:20] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 16:42:15] WhatsApp enviado para 48996411499
+[2025-04-18 16:42:19] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 16:42:19] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 16:42:19] Planilha atualizada com sucesso.
+[2025-04-18 16:54:29] Processando Lucas Silva | Status: pendente
+[2025-04-18 16:54:29] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 16:54:29] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 16:55:16] WhatsApp enviado para 48996411499
+[2025-04-18 16:55:20] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 16:55:20] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 16:55:20] Processando Lucas Silva | Status: pago
+[2025-04-18 16:55:20] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-18 16:55:20] Processando Lucas Silva | Status: pendente
+[2025-04-18 16:55:20] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 16:55:20] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 16:56:15] WhatsApp enviado para 48996411499
+[2025-04-18 16:56:20] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 16:56:20] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 16:56:20] Processando Lucas Silva | Status: pendente
+[2025-04-18 16:56:20] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 16:56:20] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 16:57:15] WhatsApp enviado para 48996411499
+[2025-04-18 16:57:19] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 16:57:19] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 16:57:20] Planilha atualizada com sucesso.
+[2025-04-18 17:42:16] Processando Lucas Silva | Status: enviado
+[2025-04-18 17:42:16] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 17:42:16] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 17:43:16] WhatsApp enviado para 48996411499
+[2025-04-18 17:43:20] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 17:43:20] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 17:43:20] Processando Lucas Silva | Status: pago
+[2025-04-18 17:43:20] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-18 17:43:20] Processando Lucas Silva | Status: enviado
+[2025-04-18 17:43:20] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 17:43:20] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 17:44:16] WhatsApp enviado para 48996411499
+[2025-04-18 17:44:20] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 17:44:20] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 17:44:20] Processando Lucas Silva | Status: enviado
+[2025-04-18 17:44:20] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 17:44:20] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 17:46:29] Processando Lucas Silva | Status: pendente
+[2025-04-18 17:46:29] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 17:46:29] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 17:47:16] WhatsApp enviado para 48996411499
+[2025-04-18 17:47:20] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 17:47:20] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 17:47:20] Processando Lucas Silva | Status: pago
+[2025-04-18 17:47:20] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-18 17:47:20] Processando Lucas Silva | Status: pendente
+[2025-04-18 17:47:20] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 17:47:20] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 17:48:15] WhatsApp enviado para 48996411499
+[2025-04-18 17:48:20] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 17:48:20] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 17:48:20] Processando Lucas Silva | Status: pendente
+[2025-04-18 17:48:20] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 17:48:20] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 17:49:15] WhatsApp enviado para 48996411499
+[2025-04-18 17:49:20] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 17:49:20] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 17:49:20] Planilha atualizada com sucesso.
+[2025-04-18 18:52:40] Processando Lucas Silva | Status: enviado
+[2025-04-18 18:52:40] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 18:52:40] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 18:53:15] WhatsApp enviado para 48996411499
+[2025-04-18 18:53:20] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 18:53:20] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 18:53:20] Processando Lucas Silva | Status: pago
+[2025-04-18 18:53:20] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-18 18:53:20] Processando Lucas Silva | Status: enviado
+[2025-04-18 18:53:20] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 18:53:20] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 18:54:10] Processando Lucas Silva | Status: enviado
+[2025-04-18 18:54:10] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 18:54:10] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 18:55:16] WhatsApp enviado para 48996411499
+[2025-04-18 18:55:20] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 18:55:20] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 18:55:20] Processando Lucas Silva | Status: pago
+[2025-04-18 18:55:20] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-18 18:55:20] Processando Lucas Silva | Status: enviado
+[2025-04-18 18:55:20] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 18:55:20] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 18:56:15] WhatsApp enviado para 48996411499
+[2025-04-18 18:56:20] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 18:56:20] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 18:56:20] Processando Lucas Silva | Status: enviado
+[2025-04-18 18:56:20] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-18 18:56:20] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-18 18:57:15] WhatsApp enviado para 48996411499
+[2025-04-18 18:57:20] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-18 18:57:20] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-18 18:57:20] Planilha atualizada com sucesso.
+[2025-04-22 09:14:37] Processando Lucas Silva | Status: pendente
+[2025-04-22 09:14:37] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-22 09:14:37] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-22 09:15:16] WhatsApp enviado para 48996411499
+[2025-04-22 09:15:21] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-22 09:15:21] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-22 09:15:21] Processando Lucas Silva | Status: pago
+[2025-04-22 09:15:21] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-22 09:15:21] Processando Lucas Silva | Status: pendente
+[2025-04-22 09:15:21] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-22 09:15:21] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-22 09:16:16] WhatsApp enviado para 48996411499
+[2025-04-22 09:16:21] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-22 09:16:21] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-22 09:16:21] Processando Lucas Silva | Status: pendente
+[2025-04-22 09:16:21] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-22 09:16:21] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-22 09:17:15] WhatsApp enviado para 48996411499
+[2025-04-22 09:17:20] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-22 09:17:20] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-22 09:17:20] Planilha atualizada com sucesso.
+[2025-04-22 09:44:38] Processando Lucas Silva | Status: pendente
+[2025-04-22 09:44:38] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-22 09:44:38] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-22 09:45:18] WhatsApp enviado para 48996411499
+[2025-04-22 09:45:22] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-22 09:45:22] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-22 09:45:22] Processando Lucas Silva | Status: pago
+[2025-04-22 09:45:22] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-22 09:45:22] Processando Lucas Silva | Status: pendente
+[2025-04-22 09:45:22] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-22 09:45:22] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-22 09:46:02] Processando Lucas Silva | Status: pendente
+[2025-04-22 09:46:02] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-22 09:46:02] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-22 09:47:15] WhatsApp enviado para 48996411499
+[2025-04-22 09:47:20] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-22 09:47:20] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-22 09:47:20] Processando Lucas Silva | Status: pago
+[2025-04-22 09:47:20] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-22 09:47:20] Processando Lucas Silva | Status: pendente
+[2025-04-22 09:47:20] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-22 09:47:20] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-22 09:48:16] WhatsApp enviado para 48996411499
+[2025-04-22 09:48:20] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-22 09:48:20] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-22 09:48:20] Processando Lucas Silva | Status: pendente
+[2025-04-22 09:48:20] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva.png
+[2025-04-22 09:48:20] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva.pdf
+[2025-04-22 09:49:16] WhatsApp enviado para 48996411499
+[2025-04-22 09:49:21] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-22 09:49:21] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-22 09:49:21] Planilha atualizada com sucesso.
+[2025-04-24 12:44:43] Processando Lucas Silva | Status: pendente
+[2025-04-24 12:44:43] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250424_124443.png
+[2025-04-24 12:44:43] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250424_124443.pdf
+[2025-04-24 12:45:16] WhatsApp enviado para 48996411499
+[2025-04-24 12:45:22] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-24 12:45:22] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-24 12:45:22] Processando Lucas Silva | Status: pago
+[2025-04-24 12:45:22] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-24 12:45:22] Processando Lucas Silva | Status: pendente
+[2025-04-24 12:45:22] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250424_124522.png
+[2025-04-24 12:45:22] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250424_124522.pdf
+[2025-04-24 12:47:37] Processando Lucas Silva | Status: pendente
+[2025-04-24 12:47:37] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250424_124737.png
+[2025-04-24 12:47:37] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250424_124737.pdf
+[2025-04-24 12:48:16] WhatsApp enviado para 48996411499
+[2025-04-24 12:48:21] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-24 12:48:21] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-24 12:48:21] Processando Lucas Silva | Status: pago
+[2025-04-24 12:48:21] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-24 12:48:21] Processando Lucas Silva | Status: pendente
+[2025-04-24 12:48:21] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250424_124821.png
+[2025-04-24 12:48:21] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250424_124821.pdf
+[2025-04-24 12:49:15] WhatsApp enviado para 48996411499
+[2025-04-24 12:49:21] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-24 12:49:21] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-24 12:49:21] Processando Lucas Silva | Status: pendente
+[2025-04-24 12:49:21] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250424_124921.png
+[2025-04-24 12:49:21] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250424_124921.pdf
+[2025-04-24 12:50:15] WhatsApp enviado para 48996411499
+[2025-04-24 12:50:19] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-24 12:50:19] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-24 12:50:19] Planilha atualizada com sucesso.
+[2025-04-24 13:00:08] Processando Lucas Silva | Status: pendente
+[2025-04-24 13:00:08] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250424_130008.png
+[2025-04-24 13:00:08] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250424_130008.pdf
+[2025-04-24 13:01:15] WhatsApp enviado para 48996411499
+[2025-04-24 13:01:21] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-24 13:01:21] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-24 13:01:21] Processando Lucas Silva | Status: pago
+[2025-04-24 13:01:21] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-24 13:01:21] Processando Lucas Silva | Status: pendente
+[2025-04-24 13:01:21] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250424_130121.png
+[2025-04-24 13:01:21] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250424_130121.pdf
+[2025-04-24 13:02:16] WhatsApp enviado para 48996411499
+[2025-04-24 13:02:21] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-24 13:02:21] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-24 13:02:21] Processando Lucas Silva | Status: pendente
+[2025-04-24 13:02:21] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250424_130221.png
+[2025-04-24 13:02:21] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250424_130221.pdf
+[2025-04-24 13:03:15] WhatsApp enviado para 48996411499
+[2025-04-24 13:03:21] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-24 13:03:21] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-24 13:03:21] Planilha atualizada com sucesso.
+[2025-04-24 13:28:55] Processando Lucas Silva | Status: pendente
+[2025-04-24 13:28:55] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250424_132855.png
+[2025-04-24 13:28:55] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250424_132855.pdf
+[2025-04-24 13:28:55] Erro ao enviar WhatsApp para 48996411499: Call Time must be Greater than Wait Time as WhatsApp Web takes some Time to Load!
+[2025-04-24 13:29:00] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-24 13:29:00] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-24 13:29:00] Processando Lucas Silva | Status: pago
+[2025-04-24 13:29:00] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-24 13:29:00] Processando Lucas Silva | Status: pendente
+[2025-04-24 13:29:00] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250424_132900.png
+[2025-04-24 13:29:00] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250424_132900.pdf
+[2025-04-24 13:29:58] Processando Lucas Silva | Status: pendente
+[2025-04-24 13:29:59] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250424_132958.png
+[2025-04-24 13:29:59] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250424_132958.pdf
+[2025-04-24 13:29:59] Erro ao enviar WhatsApp para 48996411499: Call Time must be Greater than Wait Time as WhatsApp Web takes some Time to Load!
+[2025-04-24 13:30:04] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-24 13:30:04] Status de Lucas Silva atualizado para 'Enviado'.
+[2025-04-24 13:30:04] Processando Lucas Silva | Status: pago
+[2025-04-24 13:30:04] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-24 13:30:04] Processando Lucas Silva | Status: pendente
+[2025-04-24 13:30:04] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250424_133004.png
+[2025-04-24 13:30:04] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250424_133004.pdf
+[2025-04-24 13:38:42] Processando Lucas Silva | Status: pendente
+[2025-04-24 13:38:42] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250424_133842.png
+[2025-04-24 13:38:42] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250424_133842.pdf
+[2025-04-24 13:39:18] WhatsApp enviado para 48996411499
+[2025-04-24 13:39:23] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-24 13:39:23] Processando Lucas Silva | Status: pago
+[2025-04-24 13:39:23] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-24 13:39:23] Processando Lucas Silva | Status: pendente
+[2025-04-24 13:39:23] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250424_133923.png
+[2025-04-24 13:39:23] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250424_133923.pdf
+[2025-04-24 13:39:59] Processando Lucas Silva | Status: pendente
+[2025-04-24 13:39:59] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250424_133959.png
+[2025-04-24 13:39:59] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250424_133959.pdf
+[2025-04-24 13:39:59] Erro ao enviar WhatsApp para 48996411499: Call Time must be Greater than Wait Time as WhatsApp Web takes some Time to Load!
+[2025-04-24 13:40:03] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-24 13:40:03] Processando Lucas Silva | Status: pago
+[2025-04-24 13:40:03] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-24 13:40:03] Processando Lucas Silva | Status: pendente
+[2025-04-24 13:40:03] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250424_134003.png
+[2025-04-24 13:40:03] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250424_134003.pdf
+[2025-04-24 13:40:59] Processando Lucas Silva | Status: pendente
+[2025-04-24 13:40:59] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250424_134059.png
+[2025-04-24 13:40:59] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250424_134059.pdf
+[2025-04-24 13:40:59] Erro ao enviar WhatsApp para 48996411499: Call Time must be Greater than Wait Time as WhatsApp Web takes some Time to Load!
+[2025-04-24 13:41:05] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-24 13:41:05] Processando Lucas Silva | Status: pago
+[2025-04-24 13:41:05] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-24 13:41:05] Processando Lucas Silva | Status: pendente
+[2025-04-24 13:41:05] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250424_134105.png
+[2025-04-24 13:41:05] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250424_134105.pdf
+[2025-04-24 13:43:22] Processando Lucas Silva | Status: pendente
+[2025-04-24 13:43:22] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250424_134322.png
+[2025-04-24 13:43:22] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250424_134322.pdf
+[2025-04-24 13:44:15] WhatsApp enviado para 48996411499
+[2025-04-24 13:44:21] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-24 13:44:21] Processando Lucas Silva | Status: pago
+[2025-04-24 13:44:21] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-24 13:44:21] Processando Lucas Silva | Status: pendente
+[2025-04-24 13:44:21] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250424_134421.png
+[2025-04-24 13:44:21] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250424_134421.pdf
+[2025-04-24 13:45:15] WhatsApp enviado para 48996411499
+[2025-04-24 13:45:19] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-24 13:45:19] Processando Lucas Silva | Status: pendente
+[2025-04-24 13:45:19] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250424_134519.png
+[2025-04-24 13:45:19] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250424_134519.pdf
+[2025-04-24 13:46:16] WhatsApp enviado para 48996411499
+[2025-04-24 13:46:20] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-25 09:31:18] Processando Lucas Silva | Status: pendente
+[2025-04-25 09:31:18] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250425_093118.png
+[2025-04-25 09:31:18] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250425_093118.pdf
+[2025-04-25 09:32:16] WhatsApp enviado para 48996411499
+[2025-04-25 09:32:42] Processando Lucas Silva | Status: pendente
+[2025-04-25 09:32:42] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250425_093242.png
+[2025-04-25 09:32:42] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250425_093242.pdf
+[2025-04-25 09:33:16] WhatsApp enviado para 48996411499
+[2025-04-25 09:33:21] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-25 09:33:21] Processando Lucas Silva | Status: pago
+[2025-04-25 09:33:21] Lucas Silva já está com status 'pago'. Pulando.
+[2025-04-25 09:33:21] Processando Lucas Silva | Status: pendente
+[2025-04-25 09:33:21] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250425_093321.png
+[2025-04-25 09:33:21] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250425_093321.pdf
+[2025-04-25 09:34:15] WhatsApp enviado para 48996411499
+[2025-04-25 09:34:21] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
+[2025-04-25 09:34:21] Processando Lucas Silva | Status: pendente
+[2025-04-25 09:34:21] QR Code gerado: C:\RPA\AV01\boletos\qr_Lucas_Silva_20250425_093421.png
+[2025-04-25 09:34:21] Fatura gerada: C:\RPA\AV01\faturas\fatura_Lucas_Silva_20250425_093421.pdf
+[2025-04-25 09:35:15] WhatsApp enviado para 48996411499
+[2025-04-25 09:35:20] E-mail enviado para lucas.desouza@aluno.fmpsc.edu.br
